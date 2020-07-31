@@ -1,8 +1,9 @@
-<h1>Academic Website Template</h1>
+# Homepage
 
 ![CI](https://github.com/thedhanawada/Homepage/workflows/CI/badge.svg?branch=master)
 
-<p>This is a free thing. You may download this and use it to create your own website(s), as long as you abide by the license restrictions.</p>
+## Emphasis
+To represent oneself in the vast never-ending space of the Internet isn't unusual. Personal Branding Pages has been typically used to portray and showcase their work. A virtual persoanl seller, if I may. And, at this age of evolving technology, it has become a social pressure to host oneself in the Internet. My primary agenda to create a website to personally identify myself is not to sell. It is to portray myself better. 
 
 <p>Enjoy it and if you like this, drop me a line and let me know!</p>
 
