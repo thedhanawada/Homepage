@@ -1,5 +1,7 @@
 <h1>Academic Website Template</h1>
 
+![CI](https://github.com/thedhanawada/Homepage/workflows/CI/badge.svg?branch=master)
+
 <p>This is a free thing. You may download this and use it to create your own website(s), as long as you abide by the license restrictions.</p>
 
 <p>Enjoy it and if you like this, drop me a line and let me know!</p>
