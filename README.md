@@ -1,8 +1,8 @@
-![# Homepage](https://github.com/thedhanawada/Homepage/blob/master/bookmark.png?raw=true "Homepage Logo")
----
 <p align="center">
-  <img width="460" height="300" src="https://github.com/thedhanawada/Homepage/blob/master/bookmark.png?raw=true">
+  <img src="https://github.com/thedhanawada/Homepage/blob/master/bookmark.png?raw=true">
 </p>
+---
+
 # Homepage
 
 ![CI](https://github.com/thedhanawada/Homepage/workflows/CI/badge.svg?branch=master)
