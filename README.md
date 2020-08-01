@@ -2,11 +2,9 @@
   <img src="https://github.com/thedhanawada/Homepage/blob/master/bookmark.png?raw=true">
 </p>
 <p align="center">
-  <b>Homepage</b></p>
+  <h1>Homepage</h1></p>
 
 ---
-
-# Homepage
 
 ![CI](https://github.com/thedhanawada/Homepage/workflows/CI/badge.svg?branch=master)
 
