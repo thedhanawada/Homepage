@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thedhanawada/Homepage/blob/master/bookmark.png?raw=true">
 </p>
-<p align="center">
+<p align="center" style="color:blue;font-size:18px;">
   <b>Homepage</b></p>
 
 ---
