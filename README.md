@@ -2,6 +2,7 @@
   <img src="https://github.com/thedhanawada/Homepage/blob/master/bookmark.png?raw=true">
 </p>
 <p align="center" style="font-size:18px;">Homepage</p>
+->## THIS TEXT IS IN THE CENTER!<- 
 
 ---
 
